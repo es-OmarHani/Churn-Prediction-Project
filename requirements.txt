@@ -1,0 +1,9 @@
+scikit-learn==1.2.2
+sklearn-features==0.0.2
+fastapi==0.100.1
+uvicorn==0.23.2
+imblearn
+python-dotenv
+matplotlib
+seaborn
+python-multipart
